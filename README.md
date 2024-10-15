@@ -51,3 +51,13 @@ To run this project, you will need:
   ```bash
   git clone https://github.com/Abdullah-Abuslama/RTOS_Driven_Smart_Home.git
 
+## License
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For more information, feel free to reach out to me:
+
+- **GitHub**: [Abdullah Abu Slama](https://github.com/Abdullah-Abuslama)
+- **Website**: [abdullahabuslama.work](https://abdullahabuslama.work)
+
+
