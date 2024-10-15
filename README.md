@@ -57,7 +57,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 ## Contact
 For more information, feel free to reach out to me:
 
-- **GitHub**: [Abdullah Abu Slama](https://github.com/Abdullah-Abuslama)
-- **Website**: [abdullahabuslama.work](https://abdullahabuslama.work)
+- **GitHub**: [Abdullah Abuslama](https://github.com/Abdullah-Abuslama)
+- **Website**: [Personal Website](https://abdullahabuslama.work)
 
 
