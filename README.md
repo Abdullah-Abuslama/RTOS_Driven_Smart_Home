@@ -1,6 +1,6 @@
 # RTOS-Driven Smart Home Project
 
-Welcome to the **RTOS-Driven Smart Home** project! This project was developed during my internship at the **Orange Digital Center Egypt** in collaboration with the **AMIT Embedded Systems Program** as my **Graduation Project**. The goal of this project is to create a smart, secure, and automated home environment, fully managed by **FreeRTOS**.
+Welcome to the **RTOS-Driven Smart Home** project! This project was developed during my Training at the **Orange Digital Center Egypt** in collaboration with the **AMIT Embedded Systems Program** as my **Graduation Project**. The goal of this project is to create a smart, secure, and automated home environment, fully managed by **FreeRTOS**.
 
 ## Features
 - **Password-Protected System**: Access controlled by a UART terminal. The door is locked or unlocked using a **servo motor**, based on the password entered.
